@@ -1,6 +1,6 @@
 # MuJoCo + Unity ML-Agents Tutorials
 
-![A human model clinging to a pendulum in motion](./images/cart_pole_human.png?raw=true "Optional Title")
+![A human model clinging to a pendulum in motion](./images/cart_pole_human.png?raw=true)
 
 A set of introductory, interactive tutorials for using the [MuJoCo](https://mujoco.org/) physics engine inside Unity, and learning control policies with the [ML-Agents](https://github.com/Unity-Technologies/ml-agents) framework. Unity's [Tutorial Authoring Tools](https://docs.unity3d.com/Packages/com.unity.learn.iet-framework.authoring@1.0/manual/index.html) were used to embed the steps and explanations into the Editor itself.
 
