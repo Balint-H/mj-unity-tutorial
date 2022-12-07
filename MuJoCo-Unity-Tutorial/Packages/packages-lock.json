@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.unity.barracuda": {
-      "version": "2.3.1-preview",
+      "version": "3.0.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -109,14 +109,15 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:C:/Unity_Repos/Unity_3D/Gait_Keeper/ML_Agents/ml-agents/com.unity.ml-agents",
+      "version": "2.3.0-exp.2",
       "depth": 0,
-      "source": "local",
+      "source": "registry",
       "dependencies": {
-        "com.unity.barracuda": "2.3.1-preview",
+        "com.unity.barracuda": "3.0.0",
         "com.unity.modules.imageconversion": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
-      }
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.performance.profile-analyzer": {
       "version": "1.1.1",
@@ -212,11 +213,11 @@
       "url": "https://packages.unity.com"
     },
     "org.mujoco": {
-      "version": "https://github.com/Balint-H/mujoco.git?path=unity",
+      "version": "https://github.com/Balint-H/mujoco.git?path=unity#fix/unity-bindings-meta",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "f959a17ea6c0d2abbafe95f0c89f8372dbc808fb"
+      "hash": "ae2a8a42475e17b8034169c328a1be094bbef2f0"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
