@@ -14,7 +14,7 @@
     "com.unity.timeline": "1.6.4",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.7.6",
-    "org.mujoco": "https://github.com/Balint-H/mujoco.git?path=unity#fix/unity-bindings-meta",
+    "org.mujoco": "https://github.com/Balint-H/mujoco.git?path=unity#temp/unity-size-ignore",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
