@@ -11,7 +11,7 @@ This project is aimed is primarily aimed for users wanting to construct their ow
 - Basics of modelling scenes in MuJoCo
 
 
-*This project is still in very early development, contributions are welcome in the form of feedback, or pull requests editing/fixing existing tutorials or adding new lessons.*
+*This project is still in very early development, contributions are welcome in the form of feedback, or pull requests editing/fixing existing tutorials or adding new lessons. For more information on using the tutorial authoring tools, see its [documentation](https://docs.unity3d.com/Packages/com.unity.learn.iet-framework.authoring@1.0/manual/authoring-guide.html).*
 
 ### Current content:
 - Importing and editing MuJoCo scenes to unity
