@@ -37,25 +37,26 @@ MonoBehaviour:
       Title:
         m_Untranslated: Observations
       Text:
-        m_Untranslated: 'A <b>BrainParameters</b> component was automatically added
-          when you added the <b>Agent</b> component. You''ll see it has an option
-          for using "Child sensors". If this is enabled, then any component inheriting
-          from the ML-Agents <b>SensorComponent</b> will automatically provide the
-          necessary observations when needed.
+        m_Untranslated: 'A <b>BehaviorParameters</b> component was automatically
+          added when you added the <b>Agent</b> component. You''ll see it has an
+          option for using "Child sensors". If this is enabled, then any component
+          inheriting from the ML-Agents <b>SensorComponent</b> will automatically
+          provide the necessary observations when needed.
 
-          Add a child <b>GameObject</b>
-          to the "RL" one. Name it "Observations" or "State". Then add a <b>HingeObservations</b>
-          and <b>SlideObservations</b> components to it. These are <b>SensorComponent</b>s,
-          which wraps objects that implement the <b>ISensor</b> interface, which
-          provide the actual information to the Agent. Make your way through the
-          comments of the script for details.
+          Add a child
+          <b>GameObject</b> to the "RL" one. Name it "Observations" or "State". Then
+          add a <b>HingeObservations</b> and <b>SlideObservations</b> components
+          to it. These are <b>SensorComponent</b>s, which wraps objects that implement
+          the <b>ISensor</b> interface, which provide the actual information to the
+          Agent. Make your way through the comments of the script for details.
 
 
-          The benefit of using a
-          <b>SensorComponent</b> is that you can add new observations without needing
-          to keep track of the number of observations or needing to modify or create
-          new versions of existing scripts. Don''t forget to drag &#38; drop the
-          slider and hinge joint to the serialized fields of the component.'
+          The
+          benefit of using a <b>SensorComponent</b> is that you can add new observations
+          without needing to keep track of the number of observations or needing
+          to modify or create new versions of existing scripts. Don''t forget to
+          drag &#38; drop the slider and hinge joint to the serialized fields of
+          the component.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
