@@ -213,11 +213,11 @@
       "url": "https://packages.unity.com"
     },
     "org.mujoco": {
-      "version": "https://github.com/Balint-H/mujoco.git?path=unity#fix/unity-bindings-meta",
+      "version": "https://github.com/Balint-H/mujoco.git?path=unity#temp/unity-size-ignore",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "ae2a8a42475e17b8034169c328a1be094bbef2f0"
+      "hash": "1b7b1800c7d607d47dec072f37fe6ee73d7a4d87"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

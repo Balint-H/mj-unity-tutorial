@@ -1,0 +1,20 @@
+{
+    "name": "TutorialCallbacks",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fb96225907e8e4c489ebe0f690ba2ecd",
+        "GUID:dca86c3434c38674a865b8fad7a81c91",
+        "GUID:17991980239c44885aa2c466356e3664"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

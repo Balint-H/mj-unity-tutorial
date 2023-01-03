@@ -56,7 +56,13 @@ MonoBehaviour:
           behaviour. Refer to the comments inside the script for a breakdown of the
           steps taken. Don't forget to add a <b>DecisionRequester</b> component as
           well to this <b>GameObject,</b> which signals your agent regularly to make
-          predictions."
+          predictions.\n\nYou also need to add a way for an episode to terminate.
+          The easiest way to do this is to set the \"Max Steps\" parameter of the
+          agent to an appropriate value (e.g. 800). This will terminate the episode
+          once the agent has made that many decisions (which may not equal the number
+          of physics time steps). Alternatively you can manually terminate an episode
+          given a certain condition (this is called early termination, and will be
+          an important method later on)."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/CartPoleTutorial.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Tutorials/3 - RL Basics/Scenes/CartPoleTutorialFinished.unity
+    guid: b00b2aa19276f074388318399f4754f0
   m_configObjects: {}
