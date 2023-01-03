@@ -40,7 +40,7 @@ MonoBehaviour:
         m_Untranslated: We recommend that for using the ML-Agents package, you <a
           href="https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Executable.md">
           make a build </a> of your scene instead of running the learning from the
-          editor. You can follow the
+          editor.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -59,9 +59,14 @@ MonoBehaviour:
       Title:
         m_Untranslated: Learn the control policy!
       Text:
-        m_Untranslated: 'We recommend that you use the config file inside this tutorials
-          folder. For guidance in how to run the model, consult the <a href="https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-ML-Agents.md">ML-Agents
-          documentation.</a> '
+        m_Untranslated: "We recommend that you use the config file inside this tutorial's
+          folder. For guidance in how to run the model, consult the <a href=\"https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-ML-Agents.md\">ML-Agents
+          documentation</a>. An example command line instruction that works well
+          from a directory with subdirectory called \"envs\" that contains the build,
+          and a \"config\" subdirectory that contaings the config is: \n\nmlagents-learn
+          configs\\cartpole.yaml --env=\"envs/MuJoCo-Cartpole-Tutorial.exe\" --num-envs=4
+          --run-id=rlBasics --no-graphics --time-scale=1\n\nDon't forget to activate
+          your <b>ML Agents python environment</b>!"
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

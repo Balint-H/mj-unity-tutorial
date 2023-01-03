@@ -54,6 +54,7 @@ namespace Cartpole
         {
             base.CollectObservations(sensor);
             // If you wanted to collect observations from the Agent class, you can add them one by one to the sensor
+            // Note that if you do this, and not via separate SensorComponents, you will have to update the BehaviourParameter's observation size
         }
 
         public override void OnActionReceived(ActionBuffers actions)
