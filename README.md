@@ -5,7 +5,7 @@
 
 A set of introductory, interactive tutorials for using the [MuJoCo](https://mujoco.org/) physics engine inside Unity, and learning control policies with the [ML-Agents](https://github.com/Unity-Technologies/ml-agents) framework. Unity's [Tutorial Authoring Tools](https://docs.unity3d.com/Packages/com.unity.learn.iet-framework.authoring@1.0/manual/index.html) were used to embed the steps and explanations into the Editor itself.
 
-This project is aimed is primarily aimed for users wanting to construct their own learning environments inside the Unity editor, while relying on the MuJoCo physics engine. Some learning resources are collected and referenced inside the project, but basic familiarity is expected with the following concepts:
+This project is primarily aimed for users wanting to construct their own learning environments inside the Unity editor, while relying on the MuJoCo physics engine. Some learning resources are collected and referenced inside the project, but basic familiarity is expected with the following concepts:
 - C# programming
 - Navigating the Unity scene view
 - Basics of modelling scenes in MuJoCo
