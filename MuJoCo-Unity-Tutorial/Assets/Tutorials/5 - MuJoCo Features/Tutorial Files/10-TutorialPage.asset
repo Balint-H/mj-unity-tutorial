@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 15-LastPage
+  m_Name: 10-TutorialPage
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: Goals
+    m_Untranslated: Height Fields and Meshes
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -39,11 +39,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: "This tutorial project will walk you through the following:\n\n\u2022
-          Using the tools added by MuJoCo's Unity plug-in to import and modify scenes
-          designed for MuJoCo\n\n\u2022 Implement basic learning environments ranging
-          from a simple cart-pole to a humanoid locomotion project\n\n\u2022 Using
-          the ML-Agents package to learn and deploy control policies"
+        m_Untranslated: You are not restricted restricted to only primitive shapes
+          for objects simulated with MuJoCo, you can use meshes and height fields
+          as well.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -60,29 +58,11 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: 
+        m_Untranslated: Add a heightfield
       Text:
-        m_Untranslated: 
+        m_Untranslated: Right click the HField property of the 'MjHeightField' object
+          in the scene to add the Unity object to render the height field.
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-    - m_Type: 2
-      Title:
-        m_Untranslated: 
-      Text:
-        m_Untranslated: 'Tutorial 2: Scene Building'
-      m_Tutorial: {fileID: 11400000, guid: 873738b1dfa9e304a9325dc9a7ab8512, type: 2}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0

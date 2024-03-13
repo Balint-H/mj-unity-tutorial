@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 15-LastPage
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: Goals
+    m_Untranslated: 
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -37,13 +37,9 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: 
+        m_Untranslated: Page title
       Text:
-        m_Untranslated: "This tutorial project will walk you through the following:\n\n\u2022
-          Using the tools added by MuJoCo's Unity plug-in to import and modify scenes
-          designed for MuJoCo\n\n\u2022 Implement basic learning environments ranging
-          from a simple cart-pole to a humanoid locomotion project\n\n\u2022 Using
-          the ML-Agents package to learn and deploy control policies"
+        m_Untranslated: Put your tutorial narrative description here
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -60,9 +56,9 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: 
+        m_Untranslated: Instruction title
       Text:
-        m_Untranslated: 
+        m_Untranslated: Put your tutorial instructions here
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -81,8 +77,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Tutorial 2: Scene Building'
-      m_Tutorial: {fileID: 11400000, guid: 873738b1dfa9e304a9325dc9a7ab8512, type: 2}
+        m_Untranslated: 'Tutorial X: Make the best game!'
+      m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0

@@ -10,16 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
-  m_Name: Introduction-Tutorial
+  m_Name: MuJoCo Features
   m_EditorClassIdentifier: 
   TutorialTitle:
-    m_Untranslated: MuJoCo and ML-Agents Introduction
-  m_ProgressTrackingEnabled: 0
-  m_LessonId: 
+    m_Untranslated: New Tutorial
+  m_ProgressTrackingEnabled: 1
+  m_LessonId: 56f71fd2-872c-4226-a942-c1ce1bddce33
   m_Version: 1
   m_SceneManagementBehavior: 0
   m_Scenes:
-  - {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
+  - {fileID: 102900000, guid: a885a104d4a699c4890bb15deaabf3ef, type: 3}
+  - {fileID: 102900000, guid: a885a104d4a699c4890bb15deaabf3ef, type: 3}
   m_DefaultSceneCameraSettings:
     m_CameraMode: 0
     m_FocusMode: 0
@@ -39,11 +40,9 @@ MonoBehaviour:
   m_WindowLayout: {fileID: 0}
   m_Pages:
     m_Items:
-    - {fileID: 11400000, guid: 972d29ce85367e84b92c0859de947ffb, type: 2}
-    - {fileID: 11400000, guid: abca92773da2f67478ae460d2af63490, type: 2}
-    - {fileID: 11400000, guid: b0f341d1385118745aeeb6a83d9be657, type: 2}
-    - {fileID: 11400000, guid: ce6b88912cf30f344b95e13338b8ed72, type: 2}
-    - {fileID: 11400000, guid: 524dc5707a6ae044ab45ad97f9791826, type: 2}
+    - {fileID: 11400000, guid: 92a280edf91d47849aacbb7b966e9336, type: 2}
+    - {fileID: 11400000, guid: 92fcdbfac9106e34499b73dc1b4ac48b, type: 2}
+    - {fileID: 11400000, guid: 8111c5218eeb71243baefe2111f3796a, type: 2}
   CompletionDialog: {fileID: 0}
   Modified:
     m_PersistentCalls:

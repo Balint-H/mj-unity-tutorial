@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 15-LastPage
   m_EditorClassIdentifier: 
+  Title:
+    m_Untranslated: Make a build
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -35,7 +37,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Make a build
+        m_Untranslated: 
       Text:
         m_Untranslated: We recommend that for using the ML-Agents package, you <a
           href="https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Executable.md">
@@ -85,8 +87,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Tutorial X: Make the best game!'
-      m_Tutorial: {fileID: 0}
+        m_Untranslated: 'Next Tutorial: RL advanced'
+      m_Tutorial: {fileID: 11400000, guid: 4aa0cfbdb3030e64e8b45610eae8d98a, type: 2}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0

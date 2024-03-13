@@ -212,11 +212,11 @@
       "url": "https://packages.unity.com"
     },
     "org.mujoco": {
-      "version": "https://github.com/google-deepmind/mujoco.git?path=unity#3.1.3",
+      "version": "https://github.com/Balint-H/mujoco.git?path=unity#feature/unity-hfield-context",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e2c14188adc8f6170aaf03a2f9c3424ab191d629"
+      "hash": "ff74522ed3a47df83d1db1349eb5ce6c41190adf"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
