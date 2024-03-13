@@ -25,7 +25,7 @@ This project is primarily aimed for users wanting to construct their own learnin
 
 
 ### Before you start:
-This project has only been tested on Windows so far. Currently the repository includes the Windows binary for MuJoCo version 2.3.1 . The project already references a fork of the Unity plugin, so the MuJoCo C# scripts does not need to be downloaded. However, the binary may need to be replaced for your own system. Follow the guidance from the [documentation](https://mujoco.readthedocs.io/en/latest/unity.html#).
+This project has only been tested on Windows so far. Currently the repository includes the Windows and Linux binaries for MuJoCo version 3.1.3 . The project already references a fork of the Unity plugin, so the MuJoCo C# scripts does not need to be downloaded. However, the binary may need to be replaced for your own system. Follow the guidance from the [documentation](https://mujoco.readthedocs.io/en/latest/unity.html#).
 
 ## Installation:
 Clone or download this repository, and add the `MuJoCo-Unity-Tutorial` folder from Unity Hub. Unity editor versions >2021.2.19f are expected to be compatible. After launching the project you'll be greeted with information on where to find the tutorial content. Unlike a regular project you will see an additional window element on the right hand side of your screen, listing the available tutorials.
