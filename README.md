@@ -6,7 +6,7 @@
 A set of introductory, interactive tutorials for using the [MuJoCo](https://mujoco.org/) physics engine inside Unity, and learning control policies with the [ML-Agents](https://github.com/Unity-Technologies/ml-agents) framework. Unity's [Tutorial Authoring Tools](https://docs.unity3d.com/Packages/com.unity.learn.iet-framework.authoring@1.0/manual/index.html) were used to embed the steps and explanations into the Editor itself.
 
 This project is primarily aimed for users wanting to construct their own learning environments inside the Unity editor, while relying on the MuJoCo physics engine. Some learning resources are collected and referenced inside the project, but basic familiarity is expected with the following concepts:
-- C# programming
+- Very basics of C# programming
 - Navigating the Unity scene view
 - Basics of modelling scenes in MuJoCo
 
@@ -25,7 +25,7 @@ This project is primarily aimed for users wanting to construct their own learnin
 
 
 ### Before you start:
-This project has only been tested on Windows so far. Currently the repository includes the Windows and Linux binaries for MuJoCo version 3.1.3 . The project already references a fork of the Unity plugin, so the MuJoCo C# scripts does not need to be downloaded. However, the binary may need to be replaced for your own system. Follow the guidance from the [documentation](https://mujoco.readthedocs.io/en/latest/unity.html#).
+This project has only been tested on Windows so far. Currently the repository includes the Windows and Linux binaries for MuJoCo version 3.2.4. The project already references a fork of the Unity plugin, so the MuJoCo C# scripts does not need to be downloaded. However, the binary may need to be replaced for your own system (in particular for Mac, or certain Linux architectures). Follow the guidance from the [documentation](https://mujoco.readthedocs.io/en/latest/unity.html#).
 
 ## Installation:
 Clone or download this repository, and add the `MuJoCo-Unity-Tutorial` folder from Unity Hub. Unity editor versions >2021.2.19f are expected to be compatible. After launching the project you'll be greeted with information on where to find the tutorial content. Unlike a regular project you will see an additional window element on the right hand side of your screen, listing the available tutorials.
